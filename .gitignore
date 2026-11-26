@@ -1,0 +1,9 @@
+# Raw data stays off GitHub
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+!data/*.csv
+
+# macOS
+.DS_Store

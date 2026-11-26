@@ -1,0 +1,51 @@
+region,prism_plus_tier,members,avg_orders,avg_spend_gbp
+East Midlands,Bronze,66,1.00,22.64
+East Midlands,Silver,<10,suppressed,suppressed
+East Midlands,Gold,<10,suppressed,suppressed
+East Midlands,Platinum,<10,suppressed,suppressed
+East of England,Bronze,61,1.00,26.38
+East of England,Silver,10,2.00,43.49
+East of England,Gold,<10,suppressed,suppressed
+East of England,Platinum,<10,suppressed,suppressed
+London,Bronze,1278,1.00,25.89
+London,Silver,289,2.00,52.60
+London,Gold,79,3.00,85.73
+London,Platinum,69,7.55,172.00
+North East,Bronze,31,1.00,22.29
+North East,Silver,<10,suppressed,suppressed
+North East,Gold,<10,suppressed,suppressed
+North East,Platinum,<10,suppressed,suppressed
+North West,Bronze,161,1.00,23.29
+North West,Silver,34,2.00,48.51
+North West,Gold,<10,suppressed,suppressed
+North West,Platinum,<10,suppressed,suppressed
+Northern Ireland,Bronze,10,1.00,18.59
+Northern Ireland,Silver,<10,suppressed,suppressed
+Scotland,Bronze,96,1.00,23.39
+Scotland,Silver,15,2.00,36.91
+Scotland,Gold,<10,suppressed,suppressed
+Scotland,Platinum,<10,suppressed,suppressed
+South East,Bronze,85,1.00,20.47
+South East,Silver,21,2.00,47.68
+South East,Gold,<10,suppressed,suppressed
+South East,Platinum,<10,suppressed,suppressed
+South West,Bronze,123,1.00,23.78
+South West,Silver,37,2.00,54.95
+South West,Gold,10,3.00,58.64
+South West,Platinum,<10,suppressed,suppressed
+Unknown,Bronze,89,1.00,25.10
+Unknown,Silver,31,2.00,44.46
+Unknown,Gold,12,3.00,58.36
+Unknown,Platinum,<10,suppressed,suppressed
+Wales,Bronze,37,1.00,23.71
+Wales,Silver,<10,suppressed,suppressed
+Wales,Gold,<10,suppressed,suppressed
+Wales,Platinum,<10,suppressed,suppressed
+West Midlands,Bronze,419,1.00,26.41
+West Midlands,Silver,93,2.00,52.80
+West Midlands,Gold,26,3.00,72.16
+West Midlands,Platinum,25,4.96,109.96
+Yorkshire and the Humber,Bronze,328,1.00,24.00
+Yorkshire and the Humber,Silver,71,2.00,57.07
+Yorkshire and the Humber,Gold,29,3.00,87.06
+Yorkshire and the Humber,Platinum,13,5.31,139.77
